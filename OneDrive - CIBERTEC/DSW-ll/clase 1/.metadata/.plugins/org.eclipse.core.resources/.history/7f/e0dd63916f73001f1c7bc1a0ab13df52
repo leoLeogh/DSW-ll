@@ -1,0 +1,10 @@
+package com.example.demo.ejemplo;
+
+import java.net.Socket;
+
+public class Client {
+	
+	public Client() {
+		Socket socket = new Socket();
+	}
+}
